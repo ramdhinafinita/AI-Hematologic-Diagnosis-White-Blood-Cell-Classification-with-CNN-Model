@@ -1,4 +1,4 @@
-# **IMAGE CLASSIFICATION - WHITE BOOLD CELL🩸**
+# **AI Hematologic Diagnosis: White Blood Cell Classification with CNN Model🩸**
 *Ramdhina Finita - 02/02/2023*
 
 ## **Latar Belakang dan Persiapan Data**
