@@ -1,6 +1,12 @@
 # **AI Hematologic Diagnosis: White Blood Cell Classification with CNN Model🩸**
 *Ramdhina Finita - 02/02/2023*
 
+Publised at Medium: 
+- Klasifikasi Gambar Menggunakan Deeplearning Untuk Kasus Sel Darah Putih 🩸 [Part 1](https://medium.com/@ramdhinafinita/klasifikasi-gambar-menggunakan-deeplearning-untuk-kasus-sel-darah-putih-7e1c4a72fa3d)
+- Klasifikasi Gambar Menggunakan Deeplearning Untuk Kasus Sel Darah Putih 🩸 [Part 2](https://medium.com/@ramdhinafinita/klasifikasi-gambar-menggunakan-deeplearning-untuk-kasus-sel-darah-putih-part-2-1bfa01fce8ef)
+- Klasifikasi Gambar Menggunakan Deeplearning Untuk Kasus Sel Darah Putih 🩸 [Part 3](https://medium.com/@ramdhinafinita/klasifikasi-gambar-menggunakan-deeplearning-untuk-kasus-sel-darah-putih-part-3-ed75936f29e1)
+
+
 ## **Latar Belakang dan Persiapan Data**
 
 Sel darah putih memainkan peran penting dalam bidang diagnosis penyakit terkait darah utama. Tubuh kita terutama mengandung tiga jenis sel darah, yang meliputi sel darah merah, sel darah putih (WBC), dan trombosit. Sel darah putih juga disebut sel imun karena mereka adalah sel dari sistem kekebalan tubuh. Identifikasi penyakit yang berhubungan dengan darah terutama didasarkan pada ciri-ciri atau sifat-sifat inti sel darah putih. Jadi klasifikasi sel darah putih yang andal menjadi penting dan semakin dituntut. Data yang tidak mencukupi merupakan salah satu keterbatasan dalam metode yang sudah ada. Serta elemen latar belakang yang tidak diinginkan dalam kumpulan data dapat mengurangi kinerja dari klasifikasi. Sehingga untuk mengklasifikasikan citra sel darah, metode yang disempurnakan dengan menggunakan pendekatan jaringan saraf convolutional diusulkan. Database WBC digunakan untuk klasifikasi sel darah putih. 
